@@ -1,0 +1,394 @@
+last_update: "2024-07-12"
+
+# ------------------------------------------------------------------------------
+infos:
+# ------------------------------------------------------------------------------
+
+  POPL:
+    tags: [PL]
+    bk21: 4
+    kiise: 최우수
+    rank: A*
+    rank-id: 82
+
+  PLDI:
+    tags: [PL]
+    bk21: 4
+    kiise: 최우수
+    rank: A*
+    rank-id: 84
+
+  OOPSLA:
+    tags: [PL]
+    bk21: 4
+    kiise: 최우수
+    rank: A
+    rank-id: 18
+
+  CAV:
+    tags: [LOGIC, PL]
+    bk21: 4
+    kiise: 최우수
+    rank: A*
+    rank-id: 331
+
+  ASPLOS:
+    tags: [ARCH, PL]
+    bk21: 4
+    kiise: 최우수
+    rank: A*
+    rank-id: 147
+
+  PPoPP:
+    tags: [PL]
+    bk21: 3
+    kiise: 최우수
+    rank: B
+    rank-id: 1691
+
+  ICFP:
+    tags: [PL]
+    bk21: 2
+    kiise: 최우수
+    rank: A
+    rank-id: 1037
+
+  ECOOP:
+    tags: [PL]
+    bk21: 2
+    kiise: 우수
+    rank: A
+    rank-id: 488
+
+  ESOP:
+    tags: [PL]
+    bk21: 2
+    kiise: 우수
+    rank: A
+    rank-id: 514
+
+  CC:
+    tags: [PL]
+    bk21: 2
+    kiise: 우수
+    rank: B
+    rank-id: 936
+
+  SAS:
+    tags: [PL]
+    bk21: 1
+    kiise: 우수
+    rank: B
+    rank-id: 1763
+
+  VMCAI:
+    tags: [PL]
+    bk21: "-"
+    kiise: 우수
+    rank: B
+    rank-id: 1847
+
+  ICSE:
+    tags: [SE]
+    bk21: 4
+    kiise: 최우수
+    rank: A*
+    rank-id: 1209
+
+  FSE:
+    tags: [SE]
+    bk21: 4
+    kiise: 최우수
+    rank: A*
+    rank-id: 52
+
+  ASE:
+    tags: [SE]
+    bk21: 3
+    kiise: 최우수
+    rank: A*
+    rank-id: 279
+
+  ISSTA:
+    tags: [SE]
+    bk21: 2
+    kiise: 최우수
+    rank: A
+    rank-id: 1412
+
+  TACAS:
+    tags: [SE]
+    bk21: 2
+    kiise: 우수
+    rank: A
+    rank-id: 1818
+
+  ICST:
+    tags: [SE]
+    bk21: 1
+    kiise: 우수
+    rank: A
+    rank-id: 1221
+
+  FASE:
+    tags: [SE]
+    bk21: 1
+    kiise: 우수
+    rank: B
+    rank-id: 554
+
+  GECCO:
+    tags: [SE]
+    bk21: 1
+    kiise:
+    rank: A
+    rank-id: 556
+
+  CCS:
+    tags: [SEC]
+    bk21: 4
+    kiise: 최우수
+    rank: A*
+    rank-id: 12
+
+  S&P:
+    tags: [SEC]
+    bk21: 4
+    kiise: 최우수
+    rank: A*
+    rank-id: 750
+
+  USENIX Security:
+    tags: [SEC]
+    bk21: 3
+    kiise: 최우수
+    rank: A*
+    rank-id: 1841
+
+  NDSS:
+    tags: [SEC]
+    bk21: 2
+    kiise: 최우수
+    rank: A*
+    rank-id: 1840
+
+  ASIACCS:
+    tags: [SEC]
+    bk21: 1
+    kiise: 우수
+    rank: A
+    rank-id: 61
+
+# ------------------------------------------------------------------------------
+list:
+# ------------------------------------------------------------------------------
+
+  - name: POPL
+    year: 2026
+    link: https://conf.researchr.org/home/POPL-2026
+    deadline:
+      - "2025-07-10 23:59"
+    date: Jan 11 - Jan 17
+    place: Rennes, France
+
+  - name: PLDI
+    year: 2025
+    link: https://pldi25.sigplan.org
+    deadline:
+      - "2024-11-14 23:59"
+    date: Jun 16 - Jun 20
+    place: Seoul, South Korea
+
+  - name: OOPSLA
+    year: 2025
+    link: https://2025.splashcon.org/track/OOPSLA
+    deadline:
+      - "2024-10-15 23:59"
+      - "2025-03-25 23:59"
+    date: Oct 12 - Oct 18
+    place: Singapore
+
+  - name: CAV
+    year: 2025
+    link: https://conferences.i-cav.org/2025/
+    deadline:
+      - "2025-01-31 23:59"
+    date: Jul 21 - Jul 25
+    place: Zagreb, Croatia
+
+  - name: ASPLOS
+    year: 2026
+    link: https://www.asplos-conference.org/asplos2026
+    deadline:
+      - "2025-03-12 15:59"
+      - "2025-08-20 15:59"
+    date: Mar 30 - Apr 3
+    place: Pittsburgh, Pennsylvania, USA
+
+  - name: PPoPP
+    year: 2025
+    link: https://ppopp25.sigplan.org
+    deadline:
+      - "2024-08-16 23:59"
+    date: Mar 1 - Mar 5
+    place: Las Vegas, Nevada, USA
+
+  - name: ICFP
+    year: 2025
+    link: https://icfp25.sigplan.org/
+    deadline:
+      - "2025-02-27 23:59"
+    date: Oct 12 - Oct 18
+    place: Singapore
+
+  - name: ECOOP
+    year: 2025
+    link: https://2025.ecoop.org
+    deadline:
+      - "2025-01-06 23:59"
+      - "2025-03-05 23:59"
+    date: Jun 30 - Jul 4
+    place: Bergen, Norway
+
+  - name: ESOP
+    year: 2026
+    link: https://etaps.org/2026/conferences/esop/
+    deadline:
+      - "2025-06-03 23:59"
+      - "2025-10-16 23:59"
+    date: Apr 11 - Apr 16
+    place: Torino, Italy
+
+  - name: CC
+    year: 2025
+    link: https://conf.researchr.org/home/CC-2025
+    deadline:
+      - "2024-11-12 23:59"
+    date: Mar 1 - Mar 2
+    place: Las Vegas, Nevada, USA
+
+  - name: SAS
+    year: 2025
+    link: https://2025.splashcon.org/home/sas-2025
+    deadline:
+      - "2025-05-04 23:59"
+    date: Oct 12 - Oct 18
+    place: Singapore
+
+  - name: VMCAI
+    year: 2025
+    link: https://conf.researchr.org/home/VMCAI-2025
+    deadline:
+      - "2024-09-16 23:59"
+    date: Jan 21 - Jan 21
+    place: Denver, Colorado, United States
+
+  - name: ICSE
+    year: 2026
+    link: https://conf.researchr.org/home/icse-2026
+    deadline:
+      - "2025-03-14 23:59"
+      - "2025-07-18 23:59"
+    date: Apr 12 - Apr 18
+    place: Rio De Janeiro, Brazil
+
+  - name: FSE
+    year: 2025
+    link: https://conf.researchr.org/home/fse-2025
+    deadline:
+      - "2024-09-12 23:59"
+    date: Jul 23 - Jul 27
+    place: Trondheim, Norway
+
+  - name: ASE
+    year: 2025
+    link: https://conf.researchr.org/home/ase-2025
+    deadline:
+      - "2025-05-30 23:59"
+    date: Nov 16 - Nov 20
+    place: Seoul, South Korea
+
+  - name: ISSTA
+    year: 2025
+    link: https://conf.researchr.org/home/issta-2025
+    deadline:
+      - "2024-10-31 23:59"
+    date: Jun 25 - Jun 28
+    place: Trondheim, Norway
+
+  - name: TACAS
+    year: 2025
+    link: https://etaps.org/2025/conferences/tacas
+    deadline:
+      - "2024-10-10 23:59"
+    date: May 3 - May 8
+    place: Hamilton, Canada
+
+  - name: ICST
+    year: 2025
+    link: https://conf.researchr.org/home/icst-2025
+    deadline:
+      - "2024-09-25 23:59"
+    date: Mar 31 - Apr 04
+    place: Naples, Italy
+
+  - name: FASE
+    year: 2025
+    link: https://etaps.org/2025/conferences/fase
+    deadline:
+      - "2024-10-10 23:59"
+    date: May 3 - May 8
+    place: Hamilton, Canada
+
+  - name: GECCO
+    year: 2025
+    link: https://gecco-2025.sigevo.org/HomePage
+    deadline:
+      - "2025-01-29 23:59"
+    date: Jul 14 - Jul 18
+    place: Málaga, Spain
+
+  - name: CCS
+    year: 2025
+    link: https://www.sigsac.org/ccs/CCS2025
+    deadline:
+      - "2025-01-09 23:59"
+      - "2025-04-14 23:59"
+    date: Oct 14 - Oct 18
+    place: Salt Lake City, USA
+
+  - name: S&P
+    year: 2026
+    link: https://sp2026.ieee-security.org/
+    deadline:
+      - "2025-06-05 23:59"
+      - "2025-11-13 23:59"
+    date: May 18 - May 21
+    place: San Francisco, California, USA
+
+  - name: USENIX Security
+    year: 2025
+    link: https://www.usenix.org/conference/usenixsecurity25
+    deadline:
+      - "2024-09-04 23:59"
+      - "2025-01-22 23:59"
+    date: Aug 13 - Aug 15
+    place: Seattle, Washington, USA
+
+  - name: NDSS
+    year: 2026
+    link: https://www.ndss-symposium.org/ndss2026/
+    deadline:
+      - "2025-04-23 23:59"
+      - "2025-08-06 23:59"
+    date: Feb 23 - Feb 27
+    place: San Diego, California, USA
+
+  - name: ASIACCS
+    year: 2025
+    link: https://asiaccs2025.hust.edu.vn/
+    deadline:
+      - "2024-09-20 23:59"
+      - "2025-01-20 23:59"
+    date: Aug 25 - Aug 29
+    place: Hanoi, Vietnam

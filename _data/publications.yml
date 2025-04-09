@@ -1,0 +1,110 @@
+2024:
+
+  - title: "Microphone Pair Training for Robust Sound Source Localization With Diverse Array Configurations"
+    authors:
+      - Inkyu An
+      - Guoyuan An
+      - Taeyoung Kim
+      - Sung-Eui Yoon
+    target:
+      abbr: RA-L 2024
+      name: IEEE Robotics and Automation Letters
+    url: https://conf.researchr.org/home/fse-2025      
+    materials:
+
+2023:
+
+  - title: "Topological RANSAC for Instance Verification and Retrieval without Fine-tuning"
+    authors:
+      - Guoyuan An
+      - Ju-Hyeong Seon
+      - Inkyu An
+      - Yuchi Huo
+      - Sung-Eui Yoon
+    target:
+      abbr: NeurIPS 2023
+      name: Conference on Neural Information Processing Systems
+    url: https://github.com/anguoyuan/Topological-RANSAC      
+    materials:
+
+2022:
+
+  - title: "Inexpensive Indoor Acoustic Material Estimation for Realistic Sound Propagation"
+    authors:
+      - Taeyoung Kim
+      - Inkyu An
+      - Sung-Eui Yoon      
+    target:
+      abbr: CAVW 2022
+      name: Computer Animation and Virtual Worlds
+    url: https://sgvr.kaist.ac.kr/publication/inexpensive-indoor-acoustic-material-estimation-for-realistic-sound-propagation/
+    materials:
+
+2021:
+
+  - title: "Diffraction- and Reflection-Aware Multiple Sound Source Localization"
+    authors:
+      - Inkyu An
+      - Youngsun Kwon
+      - Sung-Eui Yoon   
+    target:
+      abbr: T-RO 2021
+      name: IEEE Transactions On Robotics
+    url: https://sgvr.kaist.ac.kr/~ikan/papers/DRA_SSL/      
+    materials:
+
+2020:
+
+  - title: "Robust Sound Source Localization considering Similarity of Back-Propagation Signals"
+    authors:
+      - Inkyu An 
+      - Byeongho-Jo
+      - Youngsun Kwon
+      - Jung-woo Choi
+      - Sung-Eui Yoon    
+    target:
+      abbr: ICRA 2020
+      name: IEEE International Conference on Robotics and Automation
+    url: https://sgvr.kaist.ac.kr/~ikan/papers/SSL-BPS/
+    materials:
+
+2019:
+
+  - title: "Super Rays and Culling Region for Real-Time Updates on Grid-based Occupancy Maps"
+    authors:
+      - Youngsun Kwon
+      - Donghyuk Kim
+      - Inkyu An
+      - Sung-Eui Yoon      
+    target:
+      abbr: T-RO 2019
+      name: IEEE Transactions On Robotics
+    url: https://sgvr.kaist.ac.kr/~yskwon/papers/tro19-superray-cullingregion/
+    materials:          
+
+  - title: "Diffraction-Aware Sound Localization for a Non-Line-of-Sight Source"
+    authors:
+      - Inkyu An
+      - Doheon Lee
+      - Jung-woo Choi
+      - Dinesh Manocha
+      - Sung-Eui Yoon      
+    target:
+      abbr: ICRA 2019
+      name: IEEE International Conference on Robotics and Automation
+    url: https://sgvr.kaist.ac.kr/~ikan/papers/DA-SSL/
+    materials:
+
+2018:
+
+  - title: "Reflection-aware Sound Source Localization"
+    authors:
+      - Inkyu An
+      - Myungbae Son
+      - Dinesh Manocha
+      - Sung-Eui Yoon      
+    target:
+      abbr: ICRA 2018
+      name: IEEE International Conference on Robotics and Automation
+    url: https://sgvr.kaist.ac.kr/~ikan/papers/RA-SSL/
+    materials:
