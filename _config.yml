@@ -1,6 +1,7 @@
 ## => Site Settings
 ##############################
-url     : https://mairlab.kookmin.ac.kr
+# url     : https://mairlab.kookmin.ac.kr
+url     : https://mairlab-KM.github.io
 title   : MAIR Lab @ Kookmin University
 description: > # this means to ignore newlines until "Language & timezone"
   Multimodal Auditory & Intelligent Robotics Lab @ Kookmin University
