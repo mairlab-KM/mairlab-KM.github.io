@@ -6,6 +6,7 @@ title   : MAIR Lab @ Kookmin University
 description: > # this means to ignore newlines until "Language & timezone"
   Multimodal Auditory & Intelligent Robotics Lab @ Kookmin University
 
+# Text --> bundle exec jekyll serve
 # text_skin: "forest"
 # highlight_theme: "tomorrow-night-blue"
 
