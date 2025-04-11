@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Project
 layout: article
 ---
 
