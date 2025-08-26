@@ -25,35 +25,65 @@ By the end of this course, students will be able to:
 
 ## Weekly Class Plan
 
-**Week 1: Introduction**
+<div class="weekly-plan">
+<strong>Week 1: Introduction</strong>
+</div>
 
-**Week 2: Digital Signal Processing**
+<div class="weekly-plan">
+<strong>Week 2: Digital Signal Processing</strong>
+</div>
 
-**Week 3: Speech Recognition 1**
+<div class="weekly-plan">
+<strong>Week 3: Speech Recognition 1</strong>
+</div>
 
-**Week 4: Speech Recognition 2**
+<div class="weekly-plan">
+<strong>Week 4: Speech Recognition 2</strong>
+</div>
 
-**Week 5: Self-Supervised Models for Audio**
+<div class="weekly-plan">
+<strong>Week 5: Self-Supervised Models for Audio</strong>
+</div>
 
-**Week 6: Source Separation 1**
+<div class="weekly-plan">
+<strong>Week 6: Source Separation 1</strong>
+</div>
 
-**Week 7: Source Separation 2**
+<div class="weekly-plan">
+<strong>Week 7: Source Separation 2</strong>
+</div>
 
-**Week 8: Midterm exam**
+<div class="weekly-plan">
+<strong>Week 8: Midterm exam</strong>
+</div>
 
-**Week 9: Audio-Visual Deep Learning**
+<div class="weekly-plan">
+<strong>Week 9: Audio-Visual Deep Learning</strong>
+</div>
 
-**Week 10: Robot Audition**
+<div class="weekly-plan">
+<strong>Week 10: Robot Audition</strong>
+</div>
 
-**Week 11: Multi-channel Audio Processing**
+<div class="weekly-plan">
+<strong>Week 11: Multi-channel Audio Processing</strong>
+</div>
 
-**Week 12: Sound Source Localization**
+<div class="weekly-plan">
+<strong>Week 12: Sound Source Localization</strong>
+</div>
 
-**Week 13: Multi-channel Speech Separation & ASR**
+<div class="weekly-plan">
+<strong>Week 13: Multi-channel Speech Separation & ASR</strong>
+</div>
 
-**Week 14: Diffusion-based TTS**
+<div class="weekly-plan">
+<strong>Week 14: Diffusion-based TTS</strong>
+</div>
 
-**Week 15: Final Project**
+<div class="weekly-plan">
+<strong>Week 15: Final Project</strong>
+</div>
 
 ## Tools and Frameworks
 

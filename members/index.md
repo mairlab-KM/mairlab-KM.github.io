@@ -2,6 +2,11 @@
 layout: article
 title: Members
 ---
+
+<div class="lab-hero">
+  <h1 class="lab-title">Our Team</h1>
+  <p class="lab-subtitle">Meet the researchers advancing multimodal auditory intelligence and robotics</p>
+</div>
 {%- for _pairs in site.data.members -%}
 {%- assign _category = _pairs[0] -%}
 <h2>{{ _category }}</h2>

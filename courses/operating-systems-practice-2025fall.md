@@ -26,64 +26,124 @@ By the end of this course, students will be able to:
 
 ## Weekly Class Plan
 
-**Week 1**
-- Sep 2: ROS2 Introduction: Why ROS2?
-- Sep 4: ROS2 Introduction: Setting up the development environment
+<div class="weekly-plan">
+<strong>Week 1</strong>
+<ul>
+<li>Sep 2: ROS2 Introduction: Why ROS2?</li>
+<li>Sep 4: ROS2 Introduction: Setting up the development environment</li>
+</ul>
+</div>
 
-**Week 2**
-- Sep 9: ROS2 Nodes and Data Communication
-- Sep 11: Practice – ROS2 Nodes and Data Communication
+<div class="weekly-plan">
+<strong>Week 2</strong>
+<ul>
+<li>Sep 9: ROS2 Nodes and Data Communication</li>
+<li>Sep 11: Practice – ROS2 Nodes and Data Communication</li>
+</ul>
+</div>
 
-**Week 3**
-- Sep 16: ROS2 Transformation System (TF2)
-- Sep 18: Gazebo Practice: Robot Creation (Part 1)
+<div class="weekly-plan">
+<strong>Week 3</strong>
+<ul>
+<li>Sep 16: ROS2 Transformation System (TF2)</li>
+<li>Sep 18: Gazebo Practice: Robot Creation (Part 1)</li>
+</ul>
+</div>
 
-**Week 4**
-- Sep 23: Gazebo Practice: Robot Creation (Part 2)
-- Sep 25: ROS2 Sensing
+<div class="weekly-plan">
+<strong>Week 4</strong>
+<ul>
+<li>Sep 23: Gazebo Practice: Robot Creation (Part 2)</li>
+<li>Sep 25: ROS2 Sensing</li>
+</ul>
+</div>
 
-**Week 5**
-- Sep 30: Gazebo Practice: 2D Lidar
-- Oct 2: Gazebo Practice: Depth Camera
+<div class="weekly-plan">
+<strong>Week 5</strong>
+<ul>
+<li>Sep 30: Gazebo Practice: 2D Lidar</li>
+<li>Oct 2: Gazebo Practice: Depth Camera</li>
+</ul>
+</div>
 
-**Week 6**
-- Oct 7: SLAM Theory
-- Oct 9: Gazebo Practice: SLAM
+<div class="weekly-plan">
+<strong>Week 6</strong>
+<ul>
+<li>Oct 7: SLAM Theory</li>
+<li>Oct 9: Gazebo Practice: SLAM</li>
+</ul>
+</div>
 
-**Week 7**
-- Oct 14: Path Planning Theory
-- Oct 16: Gazebo Practice: Path Planning
+<div class="weekly-plan">
+<strong>Week 7</strong>
+<ul>
+<li>Oct 14: Path Planning Theory</li>
+<li>Oct 16: Gazebo Practice: Path Planning</li>
+</ul>
+</div>
 
-**Week 8**
-- Oct 21 & Oct 23: Midterm Exam
+<div class="weekly-plan">
+<strong>Week 8</strong>
+<ul>
+<li>Oct 21 & Oct 23: Midterm Exam</li>
+</ul>
+</div>
 
-**Week 9**
-- Oct 28: ROS2 Programming – Build and Package Files
-- Oct 30: ROS2 Programming – Package Design
+<div class="weekly-plan">
+<strong>Week 9</strong>
+<ul>
+<li>Oct 28: ROS2 Programming – Build and Package Files</li>
+<li>Oct 30: ROS2 Programming – Package Design</li>
+</ul>
+</div>
 
-**Week 10**
-- Nov 4: Real Robot Practice – Sensing (Part 1)
-- Nov 6: Real Robot Practice – Sensing (Part 2)
+<div class="weekly-plan">
+<strong>Week 10</strong>
+<ul>
+<li>Nov 4: Real Robot Practice – Sensing (Part 1)</li>
+<li>Nov 6: Real Robot Practice – Sensing (Part 2)</li>
+</ul>
+</div>
 
-**Week 11**
-- Nov 11: Real Robot Practice – YOLOv8
-- Nov 13: ROS2 Topic Programming (Python)
+<div class="weekly-plan">
+<strong>Week 11</strong>
+<ul>
+<li>Nov 11: Real Robot Practice – YOLOv8</li>
+<li>Nov 13: ROS2 Topic Programming (Python)</li>
+</ul>
+</div>
 
-**Week 12**
-- Nov 18: ROS2 Service Programming (Python)
-- Nov 20: Real Robot Practice – SLAM (Part 1)
+<div class="weekly-plan">
+<strong>Week 12</strong>
+<ul>
+<li>Nov 18: ROS2 Service Programming (Python)</li>
+<li>Nov 20: Real Robot Practice – SLAM (Part 1)</li>
+</ul>
+</div>
 
-**Week 13**
-- Nov 25: Real Robot Practice – SLAM (Part 2)
-- Nov 27: Real Robot Practice – Path Planning (Part 1)
+<div class="weekly-plan">
+<strong>Week 13</strong>
+<ul>
+<li>Nov 25: Real Robot Practice – SLAM (Part 2)</li>
+<li>Nov 27: Real Robot Practice – Path Planning (Part 1)</li>
+</ul>
+</div>
 
-**Week 14**
-- Dec 2: Real Robot Practice – Path Planning (Part 2)
-- Dec 4: Real Robot Practice – Path Planning (Part 3)
+<div class="weekly-plan">
+<strong>Week 14</strong>
+<ul>
+<li>Dec 2: Real Robot Practice – Path Planning (Part 2)</li>
+<li>Dec 4: Real Robot Practice – Path Planning (Part 3)</li>
+</ul>
+</div>
 
-**Week 15**
-- Dec 9: Final Project
-- Dec 11: Final Project
+<div class="weekly-plan">
+<strong>Week 15</strong>
+<ul>
+<li>Dec 9: Final Project</li>
+<li>Dec 11: Final Project</li>
+</ul>
+</div>
 
 ## Course Materials
 

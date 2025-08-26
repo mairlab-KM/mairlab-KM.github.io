@@ -1,3 +1,287 @@
 /* start custom scss snippet */
 
+/* Lab Website Custom Styling */
+
+// Enhanced typography and spacing
+.page__content {
+  line-height: 1.7;
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+  }
+  
+  h1 {
+    border-bottom: 3px solid #0066cc;
+    padding-bottom: 0.5rem;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #0088ff;
+    padding-bottom: 0.3rem;
+  }
+}
+
+// Hero section styling
+.lab-hero {
+  background: linear-gradient(135deg, #f8f9ff 0%, #e6f3ff 100%);
+  border-radius: 15px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 20px rgba(0, 102, 204, 0.1);
+  
+  .lab-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #0066cc;
+    text-align: center;
+    margin-bottom: 1rem;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .lab-subtitle {
+    font-size: 1.2rem;
+    color: #555;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+}
+
+// Enhanced image gallery
+.logo-gallery {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  align-items: center;
+  margin: 2rem 0;
+  
+  img {
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 25px rgba(0, 0, 0, 0.15);
+    }
+  }
+}
+
+// University image styling
+.university-showcase {
+  margin: 3rem 0;
+  text-align: center;
+  
+  img {
+    border-radius: 15px;
+    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease;
+    
+    &:hover {
+      transform: scale(1.02);
+    }
+  }
+}
+
+// Enhanced research interests section
+.research-highlights {
+  background: white;
+  border-radius: 15px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  border-left: 5px solid #0066cc;
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    
+    li {
+      background: #f8f9ff;
+      margin: 1rem 0;
+      padding: 1.5rem;
+      border-radius: 10px;
+      border-left: 4px solid #0088ff;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      
+      &:hover {
+        transform: translateX(10px);
+        box-shadow: 0 4px 15px rgba(0, 136, 255, 0.1);
+      }
+      
+      strong {
+        color: #0066cc;
+        font-size: 1.1rem;
+      }
+    }
+  }
+}
+
+// Recruitment banner enhancement
+.recruitment-banner {
+  background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%);
+  color: white !important;
+  padding: 2rem;
+  border-radius: 15px;
+  text-align: center;
+  margin: 2rem 0;
+  box-shadow: 0 6px 25px rgba(238, 90, 82, 0.3);
+  animation: pulse-glow 2s ease-in-out infinite alternate;
+  
+  span {
+    color: white !important;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+}
+
+@keyframes pulse-glow {
+  from {
+    box-shadow: 0 6px 25px rgba(238, 90, 82, 0.3);
+  }
+  to {
+    box-shadow: 0 6px 30px rgba(238, 90, 82, 0.5);
+  }
+}
+
+// Contact section enhancement
+.contact-section {
+  background: #f8f9ff;
+  border-radius: 15px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  
+  h2 {
+    color: #0066cc;
+    border-bottom: 2px solid #0088ff;
+  }
+  
+  a {
+    color: #0088ff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    
+    &:hover {
+      color: #0066cc;
+      text-decoration: underline;
+    }
+  }
+}
+
+// Members page enhancements
+.author-profiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+  
+  .author-profile {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 15px;
+    overflow: hidden;
+    border: 1px solid #e0e0e0;
+    
+    &:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    }
+    
+    .author-profile__avatar {
+      border-radius: 10px;
+      transition: transform 0.3s ease;
+    }
+    
+    .author-profile__name {
+      font-weight: 600;
+      color: #0066cc;
+      font-size: 1.1rem;
+    }
+    
+    .author-profile__research {
+      color: #666;
+      font-style: italic;
+      margin-top: 0.5rem;
+    }
+  }
+}
+
+// Course cards enhancement
+.course-card {
+  background: white;
+  border-radius: 15px;
+  padding: 2rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  border-left: 5px solid #0066cc;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.12);
+  }
+  
+  a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.2rem;
+    
+    &:hover {
+      color: #0088ff;
+      text-decoration: underline;
+    }
+  }
+}
+
+// Weekly plan styling
+.weekly-plan {
+  background: #f8f9ff;
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  border-left: 4px solid #0088ff;
+  
+  strong {
+    color: #0066cc;
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+  }
+  
+  ul {
+    margin: 0;
+    padding-left: 1.5rem;
+    
+    li {
+      margin: 0.5rem 0;
+      line-height: 1.6;
+    }
+  }
+}
+
+// Responsive design improvements
+@media (max-width: 768px) {
+  .lab-hero {
+    padding: 1.5rem;
+    
+    .lab-title {
+      font-size: 2rem;
+    }
+  }
+  
+  .logo-gallery {
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .author-profiles {
+    grid-template-columns: 1fr;
+  }
+  
+  .page__content {
+    padding: 1rem;
+  }
+}
+
 /* end custom scss snippet */
