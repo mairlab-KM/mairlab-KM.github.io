@@ -25,8 +25,8 @@ By the end of this course, students will be able to:
 - Program real robots, UNI050-HDB1 (HYUNDAI ROBOTICS) and Turtlebot4 (CLEARPATH), using ROS2 frameworks
 
 <div class="robot-gallery">
-  <img src="/assets/courses/operating-systems-practice-2025fall/UNI050-HDB1.png" alt="UNI050-HDB1" style="max-width: 250px;">
-  <img src="/assets/courses/operating-systems-practice-2025fall/TurtleBot4.png" alt="Turtlebot4" style="max-width: 250px;">
+  <img src="/assets/courses/operating-systems-practice-2025fall/UNI050-HDB1.png" alt="UNI050-HDB1" style="max-width: 100px;">
+  <img src="/assets/courses/operating-systems-practice-2025fall/TurtleBot4.png" alt="Turtlebot4" style="max-width: 100px;">
 </div>
 
 ## Weekly Class Plan
