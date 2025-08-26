@@ -22,7 +22,12 @@ By the end of this course, students will be able to:
 - Set up and configure ROS2 development environments
 - Design and implement ROS2 nodes and communication systems
 - Work with robotic sensors including LiDAR and depth cameras
-- Program real robots using ROS2 frameworks
+- Program real robots, UNI050-HDB1 (HYUNDAI ROBOTICS) and Turtlebot4 (CLEARPATH), using ROS2 frameworks
+
+<div class="robot-gallery">
+  <img src="/assets/courses/operating-systems-practice-2025fall/UNI050-HDB1.png" alt="UNI050-HDB1" style="max-width: 250px;">
+  <img src="/assets/courses/operating-systems-practice-2025fall/TurtleBot4.png" alt="Turtlebot4" style="max-width: 250px;">
+</div>
 
 ## Weekly Class Plan
 
