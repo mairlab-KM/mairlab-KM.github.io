@@ -13,15 +13,26 @@ title: MAIR Lab @ Kookmin University
   
   <div class="logo-gallery">
     <img src="/assets/logo/logo.png" alt="Lab Logo" style="max-width: 250px;">
-    <img src="/assets/logo/emblem_color.jpg" alt="Kookmin University Logo" style="max-width: 250px;">
+    <img src="/assets/logo/emblem_color.jpg" alt="Bookman University Logo" style="max-width: 230px;">
   </div>
+
+  <p>We study intelligence that enables robots to understand the world and act autonomously by leveraging <em>auditory</em> and <em>other multimodal information</em>.</p>
+
+  <p><strong>Our research interests include:</strong></p>
+  <ul>
+    <li><strong>Robot Audition</strong> that can operate in real-world complex environments.</li>
+    <li><strong>Sound-Aware Multimodal LLM</strong> capable of understanding and reasoning about the world by leveraging auditory and other modalities.</li>
+    <li><strong>Sound-based Embodied AI</strong> that can act based on its understanding and reasoning about the world.</li>
+  </ul>
 </div>
 
 <!-- <img src="/assets/logo/logo.png" alt="Lab Logo" style="max-width: 250px; display: block; margin: 0 auto;"/>
 <img src="/assets/logo/emblem_color.jpg" alt="KM Logo" style="max-width: 250px; display: block; margin: 0 auto;"/> -->
 
 
-<div class="research-highlights">
+
+
+<!-- <div class="research-highlights"> 
 <p>We study intelligence that enables robots to understand the world and act autonomously by leveraging <em>auditory</em> and <em>other multimodal information</em>.</p>
 
 <p><strong>Our research interests include:</strong></p>
@@ -30,7 +41,7 @@ title: MAIR Lab @ Kookmin University
   <li><strong>Sound-Aware Multimodal LLM</strong> capable of understanding and reasoning about the world by leveraging auditory and other modalities.</li>
   <li><strong>Sound-based Embodied AI</strong> that can act based on its understanding and reasoning about the world.</li>
 </ul>
-</div>
+ </div> -->
 
 <div class="recruitment-banner">
   <span style="font-size: 24px; font-weight: bold;">
