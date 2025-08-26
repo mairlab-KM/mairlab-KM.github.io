@@ -8,6 +8,10 @@ title: MAIR Lab @ Kookmin University
   <img src="/assets/logo/logo.png" alt="Lab Logo" style="max-width: 250px;">
   <img src="/assets/logo/emblem_color.jpg" alt="KM Logo" style="max-width: 250px;">
 </div>
+
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <img src="/assets/images/KMU.jpg" alt="Kookmin University" style="max-width: 600px; width: 100%; height: auto;">
+</div>
 <!-- <img src="/assets/logo/logo.png" alt="Lab Logo" style="max-width: 250px; display: block; margin: 0 auto;"/>
 <img src="/assets/logo/emblem_color.jpg" alt="KM Logo" style="max-width: 250px; display: block; margin: 0 auto;"/> -->
 
