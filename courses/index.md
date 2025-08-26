@@ -3,10 +3,12 @@ title: Courses
 layout: article
 ---
 
+<!--
 <div class="lab-hero">
   <h1 class="lab-title">Courses</h1>
   <p class="lab-subtitle">Advanced courses in robotics, audio processing, and intelligent systems</p>
 </div>
+-->
 
 <h2>2025 Fall</h2>
 
