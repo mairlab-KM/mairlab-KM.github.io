@@ -25,6 +25,9 @@
 
     {%- assign _position = _author.position | default: 'Student' -%}
     <p itemprop="description" class="author-profile__desc">{{ _position }}</p>
+    {%- if _author.research -%}
+    <p class="author-profile__research">Research: {{ _author.research }}</p>
+    {%- endif -%}
     <div class="author-profile__links" onclick="event.stopPropagation()">
       {%- include author-links.html author=_author -%}
     </div>
