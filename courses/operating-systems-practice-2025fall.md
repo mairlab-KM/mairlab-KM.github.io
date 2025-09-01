@@ -156,6 +156,7 @@ By the end of this course, students will be able to:
 *Lecture notes will be uploaded here throughout the semester*
 
 [Lecture 1: ROS2 Introduction](/assets/courses/operating-systems-practice-2025fall/lectures/Lec1_ROS2_introduction.pdf)
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to OS Practice](/assets/courses/operating-systems-practice-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Process Management](/assets/courses/operating-systems-practice-2025fall/lectures/lecture02-processes.pdf)
