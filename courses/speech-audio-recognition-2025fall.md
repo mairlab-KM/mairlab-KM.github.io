@@ -95,7 +95,8 @@ By the end of this course, students will be able to:
 ## Course Materials
 
 ### Lecture Notes
-*Lecture notes will be uploaded here throughout the semester*
+
+[Lecture 1: Introduction](/assets/courses/speech-audio-recognition-2025fall/lectures/SpeechAudio_Lecture1.pdf)
 
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to Speech Recognition](/assets/courses/speech-audio-recognition-2025fall/lectures/lecture01-introduction.pdf)
@@ -113,7 +114,6 @@ By the end of this course, students will be able to:
 -->
 
 ### Additional Materials
-*Supplementary materials, datasets, and resources will be available here*
 
 [Audio sample, harvard.wav](/assets/courses/speech-audio-recognition-2025fall/materials/harvard.wav)
 
