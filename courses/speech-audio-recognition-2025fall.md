@@ -115,6 +115,8 @@ By the end of this course, students will be able to:
 ### Additional Materials
 *Supplementary materials, datasets, and resources will be available here*
 
+[Audio sample, harvard.wav](/assets/courses/speech-audio-recognition-2025fall/materials/harvard.wav)
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Course Syllabus](/assets/courses/speech-audio-recognition-2025fall/materials/syllabus.pdf)
 - [Python Setup Guide](/assets/courses/speech-audio-recognition-2025fall/materials/python-setup.pdf)
