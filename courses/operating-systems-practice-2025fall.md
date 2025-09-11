@@ -159,6 +159,8 @@ By the end of this course, students will be able to:
 
 [Lecture 2: ROS2 Node, Topic, Service](/assets/courses/operating-systems-practice-2025fall/lectures/Lec2_ROS2_node_topics_services.pdf)  
 
+[Lecture 3: ROS2 Params and Actions](/assets/courses/operating-systems-practice-2025fall/lectures/Lec3_ROS2_params_actions.pdf)  
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to OS Practice](/assets/courses/operating-systems-practice-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Process Management](/assets/courses/operating-systems-practice-2025fall/lectures/lecture02-processes.pdf)
