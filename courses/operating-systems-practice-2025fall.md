@@ -161,6 +161,8 @@ By the end of this course, students will be able to:
 
 [Lecture 3: ROS2 Params and Actions](/assets/courses/operating-systems-practice-2025fall/lectures/Lec3_ROS2_params_actions.pdf)  
 
+[Lecture 4: ROS2 other CLI tools](/assets/courses/operating-systems-practice-2025fall/lectures/Lec4_ROS2_other_cli_tools.pdf)  
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to OS Practice](/assets/courses/operating-systems-practice-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Process Management](/assets/courses/operating-systems-practice-2025fall/lectures/lecture02-processes.pdf)
