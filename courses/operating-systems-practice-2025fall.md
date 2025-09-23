@@ -165,6 +165,8 @@ By the end of this course, students will be able to:
 
 [Lecture 5: ROS2 build package](/assets/courses/operating-systems-practice-2025fall/lectures/Lec5_ROS2_build_package.pdf)  
 
+[Lecture 6: ROS2 simple pub and sub](/assets/courses/operating-systems-practice-2025fall/lectures/Lec6_ROS2_simple_pub_sub.pdf)  
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to OS Practice](/assets/courses/operating-systems-practice-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Process Management](/assets/courses/operating-systems-practice-2025fall/lectures/lecture02-processes.pdf)
