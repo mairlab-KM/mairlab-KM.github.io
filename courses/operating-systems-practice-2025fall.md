@@ -167,6 +167,8 @@ By the end of this course, students will be able to:
 
 [Lecture 6: ROS2 simple pub and sub](/assets/courses/operating-systems-practice-2025fall/lectures/Lec6_ROS2_simple_pub_sub.pdf)  
 
+[Lecture 7: ROS2 Create custom msg and srv files](/assets/courses/operating-systems-practice-2025fall/lectures/Lec7_ROS2_creating_custom_msg_srv.pdf)  
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to OS Practice](/assets/courses/operating-systems-practice-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Process Management](/assets/courses/operating-systems-practice-2025fall/lectures/lecture02-processes.pdf)
@@ -175,6 +177,8 @@ By the end of this course, students will be able to:
 ### Assignments
 *Assignment materials will be posted here*
 
+[Assignment 1: System Calls](/assets/courses/operating-systems-practice-2025fall/assignments/OS_Practice_HW2.pdf)
+
 <!-- Example format - uncomment and modify as you add assignments:
 - [Assignment 1: System Calls](/assets/courses/operating-systems-practice-2025fall/assignments/assignment01.pdf)
 - [Assignment 2: Process Scheduling](/assets/courses/operating-systems-practice-2025fall/assignments/assignment02.pdf)
@@ -182,6 +186,8 @@ By the end of this course, students will be able to:
 
 ### Additional Materials
 *Supplementary materials and resources will be available here*
+
+[Lecture 7: Source code](/assets/courses/operating-systems-practice-2025fall/materials/os_practice_lec7.zip)
 
 <!-- Example format - uncomment and modify as you add materials:
 - [Course Syllabus](/assets/courses/operating-systems-practice-2025fall/materials/syllabus.pdf)

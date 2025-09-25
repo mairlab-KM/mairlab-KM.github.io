@@ -100,6 +100,8 @@ By the end of this course, students will be able to:
 
 [Lecture 2: DSP](/assets/courses/speech-audio-recognition-2025fall/lectures/SpeechAudio_Lecture2.pdf)
 
+[Lecture 3: ASR 1](/assets/courses/speech-audio-recognition-2025fall/lectures/SpeechAudio_Lecture3.pdf)
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to Speech Recognition](/assets/courses/speech-audio-recognition-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Audio Signal Processing](/assets/courses/speech-audio-recognition-2025fall/lectures/lecture02-signal-processing.pdf)
@@ -118,6 +120,8 @@ By the end of this course, students will be able to:
 ### Additional Materials
 
 [Audio sample, harvard.wav](/assets/courses/speech-audio-recognition-2025fall/materials/harvard.wav)
+
+[Lecture 2: Colab Source code](/assets/courses/speech-audio-recognition-2025fall/materials/SAR_Lec01.ipynb)
 
 <!-- Example format - uncomment and modify as you add materials:
 - [Course Syllabus](/assets/courses/speech-audio-recognition-2025fall/materials/syllabus.pdf)
