@@ -169,6 +169,9 @@ By the end of this course, students will be able to:
 
 [Lecture 7: ROS2 Create custom msg and srv files](/assets/courses/operating-systems-practice-2025fall/lectures/Lec7_ROS2_creating_custom_msg_srv.pdf)  
 
+[Lecture 8: ROS2 TF2](/assets/courses/operating-systems-practice-2025fall/lectures/Lec8_ROS2_tf2.pdf)  
+
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to OS Practice](/assets/courses/operating-systems-practice-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Process Management](/assets/courses/operating-systems-practice-2025fall/lectures/lecture02-processes.pdf)
@@ -188,6 +191,8 @@ By the end of this course, students will be able to:
 *Supplementary materials and resources will be available here*
 
 [Lecture 7: Source code](/assets/courses/operating-systems-practice-2025fall/materials/os_practice_lec7.zip)
+
+[Lecture 8: Source code](/assets/courses/operating-systems-practice-2025fall/materials/os_practice_lec8.zip)
 
 <!-- Example format - uncomment and modify as you add materials:
 - [Course Syllabus](/assets/courses/operating-systems-practice-2025fall/materials/syllabus.pdf)
