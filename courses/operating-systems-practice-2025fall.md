@@ -171,6 +171,7 @@ By the end of this course, students will be able to:
 
 [Lecture 8: ROS2 TF2](/assets/courses/operating-systems-practice-2025fall/lectures/Lec8_ROS2_tf2.pdf)  
 
+[Lecture 9: ROS2 TF2 2](/assets/courses/operating-systems-practice-2025fall/lectures/Lec9_ROS2_tf2_2.pdf)  
 
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to OS Practice](/assets/courses/operating-systems-practice-2025fall/lectures/lecture01-introduction.pdf)
@@ -193,6 +194,8 @@ By the end of this course, students will be able to:
 [Lecture 7: Source code](/assets/courses/operating-systems-practice-2025fall/materials/os_practice_lec7.zip)
 
 [Lecture 8: Source code](/assets/courses/operating-systems-practice-2025fall/materials/os_practice_lec8.zip)
+
+[Lecture 9: Source code](/assets/courses/operating-systems-practice-2025fall/materials/os_practice_lec9.zip)
 
 <!-- Example format - uncomment and modify as you add materials:
 - [Course Syllabus](/assets/courses/operating-systems-practice-2025fall/materials/syllabus.pdf)
