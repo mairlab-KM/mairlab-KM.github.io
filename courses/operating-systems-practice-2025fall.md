@@ -177,6 +177,8 @@ By the end of this course, students will be able to:
 
 [Lecture 11: Turtlebot4 Gazebo](/assets/courses/operating-systems-practice-2025fall/lectures/Lec11_Turtlebot4_Gazebo.pdf)  
 
+[Lecture 11: Path planning 1](/assets/courses/operating-systems-practice-2025fall/lectures/Lec12_PathPlanning.pdf)  
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to OS Practice](/assets/courses/operating-systems-practice-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Process Management](/assets/courses/operating-systems-practice-2025fall/lectures/lecture02-processes.pdf)
