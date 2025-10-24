@@ -23,32 +23,40 @@ Donghyun Yoo:
   avatar      : /assets/images/avatars/Donghyun_Yoo.jpeg
   image       : /assets/images/members/Donghyun_Yoo.jpeg
   position    : Undergraduate Student
-  research    : Robotics
+  research    : Multimodal Spatial Reasoning, Robotics
+
+Hee Namgung:
+  name        : Hee Namgung
+  avatar      : /assets/images/avatars/Hee_Namgung.jpeg
+  image       : /assets/images/members/Hee_Namgung.jpeg
+  position    : Undergraduate Student
+  research    : Multimodal Spatial Reasoning, Robotics
 
 Chaehee Yoo:
   name        : Chaehee Yoo
   avatar      : /assets/images/avatars/Chaehee_Yoo.jpeg
   image       : /assets/images/members/Chaehee_Yoo.jpeg
   position    : Undergraduate Student
-  research    : Robotics
+  research    : Long-term Memory for LLM Agents
 
 Jaeu Ryu:
   name        : Jaeu Ryu
   avatar      : /assets/images/avatars/Jaeu_Ryu.jpeg
   image       : /assets/images/members/Jaeu_Ryu.jpeg
   position    : Undergraduate Student
-  research    : Robotics
+  research    : Robot Audition, Robotics
 
 Keunseo Jang:
   name        : Keunseo Jang
   avatar      : /assets/images/avatars/Keunseo_Jang.jpeg
   image       : /assets/images/members/Keunseo_Jang.jpeg
   position    : Undergraduate Student
-  research    : Robotics
+  research    : Multimodal-based 3D Gaussian Splatting, Robotics
 
 Sungbin Lee:
   name        : Sungbin Lee
   avatar      : /assets/images/avatars/Sungbin_Lee.jpeg
   image       : /assets/images/members/Sungbin_Lee.jpeg
   position    : Undergraduate Student
-  research    : Robotics
+  research    : Self-Refining Agents, Robotics
+
