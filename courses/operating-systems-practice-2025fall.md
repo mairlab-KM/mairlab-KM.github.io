@@ -191,6 +191,8 @@ By the end of this course, students will be able to:
 
 [Assignment 1: System Calls](/assets/courses/operating-systems-practice-2025fall/assignments/OS_Practice_HW2.pdf)
 
+[Final Project](/assets/courses/operating-systems-practice-2025fall/assignments/OSP_final_project.pdf)
+
 <!-- Example format - uncomment and modify as you add assignments:
 - [Assignment 1: System Calls](/assets/courses/operating-systems-practice-2025fall/assignments/assignment01.pdf)
 - [Assignment 2: Process Scheduling](/assets/courses/operating-systems-practice-2025fall/assignments/assignment02.pdf)
