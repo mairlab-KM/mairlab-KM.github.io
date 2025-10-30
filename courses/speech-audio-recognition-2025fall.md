@@ -108,6 +108,8 @@ By the end of this course, students will be able to:
 
 [Lecture 6: Source Separation](/assets/courses/speech-audio-recognition-2025fall/lectures/SpeechAudio_Lecture6.pdf)
 
+[Lecture 7: Source Separation 2](/assets/courses/speech-audio-recognition-2025fall/lectures/SpeechAudio_Lecture7.pdf)
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to Speech Recognition](/assets/courses/speech-audio-recognition-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Audio Signal Processing](/assets/courses/speech-audio-recognition-2025fall/lectures/lecture02-signal-processing.pdf)
@@ -115,7 +117,9 @@ By the end of this course, students will be able to:
 -->
 
 ### Assignments
-*Assignment materials and programming exercises will be posted here*
+
+[Final Project: Audio Feature Extraction](/assets/courses/speech-audio-recognition-2025fall/assignments/ASR_final_project.pdf)
+
 
 <!-- Example format - uncomment and modify as you add assignments:
 - [Assignment 1: Audio Feature Extraction](/assets/courses/speech-audio-recognition-2025fall/assignments/assignment01.pdf)
