@@ -183,6 +183,8 @@ By the end of this course, students will be able to:
 
 [Lecture 14: Turtlebot4 Setup](/assets/courses/operating-systems-practice-2025fall/lectures/Lec14_Turtlebot4_Setup.pdf)  
 
+[Lecture 15: Turtlebot4 SLAM](/assets/courses/operating-systems-practice-2025fall/lectures/Lec15_Turtlebot4_SLAM.pdf)  
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to OS Practice](/assets/courses/operating-systems-practice-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Process Management](/assets/courses/operating-systems-practice-2025fall/lectures/lecture02-processes.pdf)
