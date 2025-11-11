@@ -187,6 +187,8 @@ By the end of this course, students will be able to:
 
 [Lecture 16: Turtlebot4 YOLO](/assets/courses/operating-systems-practice-2025fall/lectures/Lec16_Turtlebot4_YOLO.pdf)  
 
+[Lecture 17: Turtlebot4 Nav2](/assets/courses/operating-systems-practice-2025fall/lectures/Lec17_Turtlebot4_Nav2.pdf)  
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to OS Practice](/assets/courses/operating-systems-practice-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Process Management](/assets/courses/operating-systems-practice-2025fall/lectures/lecture02-processes.pdf)
