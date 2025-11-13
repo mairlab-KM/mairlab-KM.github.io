@@ -189,6 +189,8 @@ By the end of this course, students will be able to:
 
 [Lecture 17: Turtlebot4 Nav2](/assets/courses/operating-systems-practice-2025fall/lectures/Lec17_Turtlebot4_Nav2.pdf)  
 
+[Lecture 18: Turtlebot4 Nav2 API](/assets/courses/operating-systems-practice-2025fall/lectures/Lec18_Turtlebot4_Nav2_API.pdf)  
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to OS Practice](/assets/courses/operating-systems-practice-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Process Management](/assets/courses/operating-systems-practice-2025fall/lectures/lecture02-processes.pdf)
