@@ -192,6 +192,7 @@ By the end of this course, students will be able to:
 [Lecture 18: Turtlebot4 Nav2 API](/assets/courses/operating-systems-practice-2025fall/lectures/Lec18_Turtlebot4_Nav2_API.pdf)  
 
 [Lecture 19: Turtlebot4 LLM](/assets/courses/operating-systems-practice-2025fall/lectures/Lec19_Turtlebot4_LLM.pdf)  
+[Lecture 19: Turtlebot4 LLM (PPT)](/assets/courses/operating-systems-practice-2025fall/lectures/Lec19_Turtlebot4_LLM.pptx)  
 
 [Lecture 20: LLM-Powered Robots](/assets/courses/operating-systems-practice-2025fall/lectures/Lec20_LLM_Powered_Robots.pdf)  
 
