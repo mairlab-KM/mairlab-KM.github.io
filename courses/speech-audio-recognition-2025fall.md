@@ -114,6 +114,8 @@ By the end of this course, students will be able to:
 
 [Lecture 9: Multi-channel Source Separation 2](/assets/courses/speech-audio-recognition-2025fall/lectures/SpeechAudio_Lecture9.pdf)
 
+[Lecture 10: Sound Propagation](/assets/courses/speech-audio-recognition-2025fall/lectures/SpeechAudio_Lecture10.pdf)
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to Speech Recognition](/assets/courses/speech-audio-recognition-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Audio Signal Processing](/assets/courses/speech-audio-recognition-2025fall/lectures/lecture02-signal-processing.pdf)
