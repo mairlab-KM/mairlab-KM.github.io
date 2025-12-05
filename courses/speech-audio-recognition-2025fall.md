@@ -116,6 +116,8 @@ By the end of this course, students will be able to:
 
 [Lecture 10: Sound Propagation](/assets/courses/speech-audio-recognition-2025fall/lectures/SpeechAudio_Lecture10.pdf)
 
+[Lecture 11: Sound Synthesis](/assets/courses/speech-audio-recognition-2025fall/lectures/SpeechAudio_Lecture11.pdf)
+
 <!-- Example format - uncomment and modify as you add materials:
 - [Lecture 1: Introduction to Speech Recognition](/assets/courses/speech-audio-recognition-2025fall/lectures/lecture01-introduction.pdf)
 - [Lecture 2: Audio Signal Processing](/assets/courses/speech-audio-recognition-2025fall/lectures/lecture02-signal-processing.pdf)
