@@ -172,6 +172,8 @@ By the end of this course, students will be able to:
 
 [Lecture 2: Processes](/assets/courses/operating-systems-2026spring/lectures/2_Processes.pdf)  
 
+[Lecture 3: Processes API](/assets/courses/operating-systems-2026spring/lectures/3_ProcessAPI.pdf)  
+
 ### Assignments / Project
 *Assignment and project details will be posted here.*
 
