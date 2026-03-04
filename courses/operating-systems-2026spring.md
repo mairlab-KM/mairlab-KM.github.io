@@ -8,36 +8,36 @@ semester: 2026 Spring
 
 ## Course Information
 
-- **Semester**: Spring 2026 :contentReference[oaicite:1]{index=1}
-- **Instructor**: Prof. Inkyu An :contentReference[oaicite:2]{index=2}
-- **Department**: School of Software, College of Software Convergence :contentReference[oaicite:3]{index=3}
+- **Semester**: Spring 2026 
+- **Instructor**: Prof. Inkyu An
+- **Department**: School of Software, College of Software Convergence 
 
 ## Course Description
 
 An operating system manages computer hardware and software resources and serves as an interface between users/applications and hardware.  
-This course covers core OS concepts for effectively managing and operating resources such as CPU, memory, and I/O. :contentReference[oaicite:8]{index=8}
+This course covers core OS concepts for effectively managing and operating resources such as CPU, memory, and I/O. 
 
 ## Course Objectives
 
 By the end of this course, students will be able to:
-- Explain OS roles and core abstractions for **CPU and memory virtualization** :contentReference[oaicite:9]{index=9}
-- Understand key **concurrency problems** and classic solution approaches :contentReference[oaicite:10]{index=10}
-- Understand how OS ensures **persistence** and how storage systems are organized :contentReference[oaicite:11]{index=11}
+- Explain OS roles and core abstractions for **CPU and memory virtualization** 
+- Understand key **concurrency problems** and classic solution approaches 
+- Understand how OS ensures **persistence** and how storage systems are organized 
 
 ## Generative AI Policy
 
-- **Policy**: Full prohibition for graded items (exams/assignments/quizzes, etc.). :contentReference[oaicite:12]{index=12}
+- **Policy**: Full prohibition for graded items (exams/assignments/quizzes, etc.). 
 
 ## Assessment
 
-- **Midterm Exam**: 40% :contentReference[oaicite:13]{index=13}
-- **Final Exam**: 40% :contentReference[oaicite:14]{index=14}
-- **Project**: 15% :contentReference[oaicite:15]{index=15}
-- **Attendance**: 5% :contentReference[oaicite:16]{index=16}
+- **Midterm Exam**: 40%
+- **Final Exam**: 40%
+- **Project**: 15%
+- **Attendance**: 5%
 
 ## Textbook
 
-- **Main**: *Operating Systems: Three Easy Pieces* (Remzi H. Arpaci-Dusseau) :contentReference[oaicite:20]{index=20}
+- **Main**: *Operating Systems: Three Easy Pieces* (Remzi H. Arpaci-Dusseau)
 
 ## Weekly Class Plan
 
@@ -163,7 +163,7 @@ By the end of this course, students will be able to:
 
 ## Exams (Additional Note)
 
-- The syllabus notice section includes specific exam time examples (evening 18:00–20:00) and mentions schedules may change; the year in that note appears inconsistent with the 2026 weekly plan, so please treat exact time/date as subject to update in class. :contentReference[oaicite:22]{index=22}
+- The syllabus notice section includes specific exam time examples (evening 18:00–20:00) and mentions schedules may change; the year in that note appears inconsistent with the 2026 weekly plan, so please treat exact time/date as subject to update in class.
 
 ### Lecture Notes
 *Lecture notes will be uploaded here throughout the semester.*
@@ -177,6 +177,6 @@ By the end of this course, students will be able to:
 
 ## Contact Information
 
-**Professor**: Inkyu An :contentReference[oaicite:23]{index=23}  
-**Email**: inkyu.an@kookmin.ac.kr :contentReference[oaicite:24]{index=24}  
-**Office**: Engineering Building, Room 450 :contentReference[oaicite:25]{index=25}  
+**Professor**: Inkyu An
+**Email**: inkyu.an@kookmin.ac.kr
+**Office**: Engineering Building, Room 450
