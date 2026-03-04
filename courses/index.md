@@ -9,6 +9,13 @@ layout: article
   <p class="lab-subtitle">Advanced courses in robotics, audio processing, and intelligent systems</p>
 </div>
 -->
+<h2>2026 Spring</h2>
+
+<div class="course-card">
+  <p><strong><a href="/courses/operating-systems-2026spring">Operating Systems</a></strong></p>
+  <p>The course is centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.</p>
+</div>
+
 
 <h2>2025 Fall</h2>
 
