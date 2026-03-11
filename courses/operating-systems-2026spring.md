@@ -174,6 +174,8 @@ By the end of this course, students will be able to:
 
 [Lecture 3: Processes API](/assets/courses/operating-systems-2026spring/lectures/3_ProcessAPI.pdf)  
 
+[Lecture 4: Limited Direct Execution](/assets/courses/operating-systems-2026spring/lectures/4_LimitedDirectExecution.pdf)  
+
 ### Assignments / Project
 *Assignment and project details will be posted here.*
 
