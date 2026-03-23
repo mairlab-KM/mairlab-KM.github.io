@@ -178,6 +178,10 @@ By the end of this course, students will be able to:
 
 [Lecture 5: Scheduling](/assets/courses/operating-systems-2026spring/lectures/5_Scheduling.pdf)  
 
+[Lecture 6: Multi-Level Feedback Queue](/assets/courses/operating-systems-2026spring/lectures/6_MultiLevelFeedback.pdf)  
+
+[Lecture 7: Lottery Scheduling](/assets/courses/operating-systems-2026spring/lectures/7_LotteryScheduling.pdf)  
+
 ### Assignments / Project
 *Assignment and project details will be posted here.*
 
