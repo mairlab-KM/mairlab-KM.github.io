@@ -182,6 +182,10 @@ By the end of this course, students will be able to:
 
 [Lecture 7: Lottery Scheduling](/assets/courses/operating-systems-2026spring/lectures/7_LotteryScheduling.pdf)  
 
+[Lecture 8: Address Spaces](/assets/courses/operating-systems-2026spring/lectures/8_AddressSpaces.pdf)  
+
+[Lecture 9: Base And Bound](/assets/courses/operating-systems-2026spring/lectures/9_BaseAndBound.pdf)  
+
 ### Assignments / Project
 *Assignment and project details will be posted here.*
 
