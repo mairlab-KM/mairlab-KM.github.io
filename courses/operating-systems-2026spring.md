@@ -186,6 +186,9 @@ By the end of this course, students will be able to:
 
 [Lecture 9: Base And Bound](/assets/courses/operating-systems-2026spring/lectures/9_BaseAndBound.pdf)  
 
+[Lecture 10: Segmentation](/assets/courses/operating-systems-2026spring/lectures/10_Segmentation.pdf)  
+
+
 ### Assignments / Project
 *Assignment and project details will be posted here.*
 
