@@ -188,6 +188,7 @@ By the end of this course, students will be able to:
 
 [Lecture 10: Segmentation](/assets/courses/operating-systems-2026spring/lectures/10_Segmentation.pdf)  
 
+[Lecture 11: Frespace Management](/assets/courses/operating-systems-2026spring/lectures/11_FreeSpace_Management.pdf)  
 
 ### Assignments / Project
 *Assignment and project details will be posted here.*
