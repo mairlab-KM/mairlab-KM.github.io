@@ -190,6 +190,10 @@ By the end of this course, students will be able to:
 
 [Lecture 11: Frespace Management](/assets/courses/operating-systems-2026spring/lectures/11_FreeSpace_Management.pdf)  
 
+[Lecture 12: Paging Introduction](/assets/courses/operating-systems-2026spring/lectures/12_Paging_Introduction.pdf)  
+
+[Lecture 13: TLB](/assets/courses/operating-systems-2026spring/lectures/13_Translation_Lookaside_Buffer.pdf)  
+
 ### Assignments / Project
 *Assignment and project details will be posted here.*
 
