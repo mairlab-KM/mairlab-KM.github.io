@@ -194,6 +194,8 @@ By the end of this course, students will be able to:
 
 [Lecture 13: TLB](/assets/courses/operating-systems-2026spring/lectures/13_Translation_Lookaside_Buffer.pdf)  
 
+[Lecture 14: Smaller Tables](/assets/courses/operating-systems-2026spring/lectures/14_Smaller_Tables.pdf)  
+
 ### Assignments / Project
 *Assignment and project details will be posted here.*
 
