@@ -196,6 +196,10 @@ By the end of this course, students will be able to:
 
 [Lecture 14: Smaller Tables](/assets/courses/operating-systems-2026spring/lectures/14_Smaller_Tables.pdf)  
 
+[Lecture 15: Swapping Mechanisms](/assets/courses/operating-systems-2026spring/lectures/15_Swapping_Mechanisms.pdf)  
+
+[Lecture 16: Swapping Policies](/assets/courses/operating-systems-2026spring/lectures/16_Swapping_Policies.pdf)  
+
 ### Assignments / Project
 *Assignment and project details will be posted here.*
 
