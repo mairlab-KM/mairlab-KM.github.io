@@ -200,6 +200,12 @@ By the end of this course, students will be able to:
 
 [Lecture 16: Swapping Policies](/assets/courses/operating-systems-2026spring/lectures/16_Swapping_Policies.pdf)  
 
+[Lecture 17: Concurrency Intro](/assets/courses/operating-systems-2026spring/lectures/17_concurrency_intro.pdf)  
+
+[Lecture 18: Interlude: Thread API](/assets/courses/operating-systems-2026spring/lectures/18_Interlude_Thread_API.pdf)  
+
+[Lecture 19: Locks](/assets/courses/operating-systems-2026spring/lectures/19_Locks.pdf)  
+
 ### Assignments / Project
 *Assignment and project details will be posted here.*
 
